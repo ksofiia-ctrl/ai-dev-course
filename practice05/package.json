@@ -1,0 +1,7 @@
+{
+  "name": "event-registration",
+  "version": "1.0.0",
+  "description": "Практична робота № 5. Шаблони промптів для типових задач розробки",
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
